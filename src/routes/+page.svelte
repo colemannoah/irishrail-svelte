@@ -81,7 +81,6 @@
     font-family: 'Roboto', sans-serif;
   }
 
-	/* Styling for dropdown with transition */
 	.dropdown {
 		position: relative;
 	}
@@ -90,7 +89,7 @@
 		position: absolute;
 		top: 0;
 		right: 0;
-		padding: 10px;
+		padding: 1%;
 		border: none;
 		background-color: #fff;
 		cursor: pointer;
@@ -98,7 +97,7 @@
 
 	.dropdown-content {
 		position: absolute;
-		top: 50px;
+		top: 40px;
 		right: 0;
 		background-color: #fff;
 		border: 1px solid #ccc;
